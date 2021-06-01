@@ -1,0 +1,18 @@
+table{
+    border: 1px solid #e6e8ea;
+    border-radius: 10px;
+}
+
+.table-header{
+    background-color: #eef5ff;
+    padding: 2px;
+}
+
+td, th{
+    padding: 10px;
+}
+
+th{
+    color: #7f8fa5;
+    font-weight: 500;
+}
