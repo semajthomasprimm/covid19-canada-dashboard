@@ -11,10 +11,11 @@ const About = () => {
                 <p>Developed by <a href="https://semajprimm.com" target="_blank" rel="noopener noreferrer">Semaj Primm</a><span role="img" aria-label="Waving hand"> 👋</span> with <ReactJSLogo width={30} height={30} className="mr-6"/> <b>+</b> <BootstrapLogo width={30} height={30} className="mr-6"/>.</p>
                 <p>Data is sourced from API of <a href="https://opencovid.ca/" target="_blank" rel="noopener noreferrer">COVID-19 Canada Open Data Working Group</a>.</p>
                 <p>How I Built This <b>[COMING SOON]</b></p>
+                <p><a href="https://github.com/semajthomasprimm/covid19-canada-dashboard" target="_blank" rel="noopener noreferrer">View the Source Code</a></p>
             </div>
             <div className="my-5">
                 <p className="fs-3 font-weight-bold">PROJECT DESCRIPTION</p>
-                <p className="">This is a COVID-19 data reporting dashboard for Canada, including provinces and territories. <br />The data is sourced from <a href="https://opencovid.ca/" target="_blank" rel="noopener noreferrer">COVID-19 Canada Open Data Working Group</a>.</p>
+                <p>This is a COVID-19 data reporting dashboard for Canada, including provinces and territories. <br />The data is sourced from <a href="https://opencovid.ca/" target="_blank" rel="noopener noreferrer">COVID-19 Canada Open Data Working Group</a>.</p>
             </div>
             <div className="my-5">
                 <p className="fs-3 font-weight-bold">FUTURE ROADMAP<span role="img" aria-label="Robot"> 🤖</span></p>

@@ -2,6 +2,8 @@
 
 A COVID-19 cases tracker for Canada. Includes charts displaying daily statistics of cases, deaths, tests, and vaccinations for Canada, provinces and territories.
 
+[Live Preview](https://covid19-canada-dashboard.netlify.app/)
+
 ## Preview
 
 ![Preview Image](preview.png)
